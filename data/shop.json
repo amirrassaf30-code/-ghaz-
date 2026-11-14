@@ -5,20 +5,4 @@
     "phone": "989199147277",
     "intro": "انتخاب‌هایی برای هر روزی که می‌خواهی متفاوت باشی؛ پوشاک زنانه، مردانه، بچگانه و اکسسوری با استایلی خاص.",
     "adminHash": "4f9f10b304cfe9b2b11fcb1387f694e18f08ea358c7e9f567434d3ad6cbd7fc4"
-  },
-  "products": [
-    {
-      "id": "001",
-      "name": "دامن",
-      "brand": "ساتیشو",
-      "cat": "women",
-      "price": 1000000,
-      "oldPrice": 1200000,
-      "stock": 30,
-      "img": "https://tse1.mm.bing.net/th/id/OIP.hFmnOqIBgKnOtOwEI7zg4gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-      "desc": "دامن پاییزه",
-      "sizes": ["s", "m", "l"],
-      "colors": ["کرمی", "مشکی", "قهوه ای"]
-    }
-  ]
-}
+  }
