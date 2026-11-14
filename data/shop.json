@@ -19,19 +19,6 @@
       "desc": "دامن پاییزه",
       "sizes": ["s", "m", "l"],
       "colors": ["کرمی", "مشکی", "قهوه ای"]
-    },
-    {
-      "id": "002",
-      "name": "مانتو پاییزه",
-      "brand": "ساتیشو",
-      "cat": "women",
-      "price": 1500000,
-      "oldPrice": 1800000,
-      "stock": 20,
-      "img": "https://gbox.ir/wp-content/uploads/2023/04/GTA_IV_Complete_Edition.jpg",
-      "desc": "مانتو پاییزه شیک و مناسب استفاده روزمره",
-      "sizes": ["s", "m", "l", "xl"],
-      "colors": ["مشکی", "کرم", "قهوه ای"]
     }
   ]
 }
