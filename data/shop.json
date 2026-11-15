@@ -1,3 +1,4 @@
+
 {
   "settings": {
     "shop": "GHΛZ",
@@ -15,6 +16,19 @@
       "oldPrice": 0,
       "stock": 26,
       "img": "https://raw.githubusercontent.com/amirrassaf30-code/-ghaz-/refs/heads/main/data/1779110903014.jpg",
+      "desc": "دامن پاییزه",
+      "sizes": ["s", "m", "l"],
+      "colors": ["کرمی", "مشکی", "قهوه ای"]
+    },
+    {
+      "id": "002",
+      "name": "خودم",
+      "brand": "ممد و ...",
+      "cat": "women",
+      "price": 9999999999,
+      "oldPrice": 9999999999,
+      "stock": 26,
+      "img": "https://raw.githubusercontent.com/amirrassaf30-code/-ghaz-/refs/heads/main/data/%D8%A7%D8%B1%D9%85%D8%A7%D9%86.jpg",
       "desc": "دامن پاییزه",
       "sizes": ["s", "m", "l"],
       "colors": ["کرمی", "مشکی", "قهوه ای"]
